@@ -3,3 +3,5 @@ loadstring(game:HttpGet('https://raw.githubusercontent.com/bielFPC/Vhs/refs/head
 
 --  rage
 loadstring(game:HttpGet('https://raw.githubusercontent.com/bielFPC/Vhs/refs/heads/main/Rage',true))()
+
+loadstring(game:HttpGet('https://raw.githubusercontent.com/bielFPC/Vhs/refs/heads/main/Blizt%20Crackd',true))()
